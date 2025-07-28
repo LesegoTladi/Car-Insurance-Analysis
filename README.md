@@ -45,12 +45,11 @@ This page provides a detailed view of individual claims with dynamic KPIs:
 
 - **KPI Cards**
   - Total Claim Amount by:
-    - Gender: 62.97K ✅
-    - Severity: 51.60K ✅
-    - Age Group: 51.60K ✅
-    - Vehicle Make: 51600 ✅
-  - Each surpassing baseline goal by 5159900% (example placeholder)
-
+    - Gender: 62.97K 
+    - Severity: 51.60K 
+    - Age Group: 51.60K 
+    - Vehicle Make: 51600 
+  
 - **Incident Table Columns**
   - Location (Street, City, State)
   - Incident Type and Severity
